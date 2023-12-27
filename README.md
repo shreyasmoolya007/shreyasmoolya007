@@ -24,8 +24,8 @@
  </a> </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasmoolya007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="shreyasmoolya007" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasmoolya007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="shreyasmoolya007" width="355" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyasmoolya007&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="shreyasmoolya007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasmoolya007&theme=dark&hide_border=false" alt="shreyasmoolya007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasmoolya007&theme=dark&hide_border=false" alt="shreyasmoolya007" width="830" /></p>
