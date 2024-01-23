@@ -16,6 +16,8 @@
 
 - 👨‍💻 My Portfolio </a> <a href="https://shreyas-moolya-portfolio.netlify.app" target="_blank" rel="noreferrer">**Click Here**</a>
 
+- 👀 Profile views <img src="https://profile-counter.glitch.me/shreyasmoolya007/count.svg" />
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="java" width="40" height="40"/><a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="javascript" width="40" height="40"/>
 <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="45" height="40"/>
